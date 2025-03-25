@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dereck Taverne</h1>
 <h3 align="center">A passionate Computer Science Student from NYC, aspiring SWE.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derecktav&label=Profile%20views&color=0e75b6&style=flat" alt="derecktav" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=derecktav&label=Profile%20views&color=0e75b6&style=flat" alt="derecktav" /> </p> -->
 
 - 🔭 I’m currently working on [Youtube Playlist Transfer](https://github.com/DereckTav/Youtube-Playlist-Transfer)
 
