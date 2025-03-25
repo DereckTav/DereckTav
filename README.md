@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I used to do LEGO robotics**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">derecktaverne@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
