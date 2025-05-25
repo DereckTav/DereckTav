@@ -3,9 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=derecktav&label=Profile%20views&color=0e75b6&style=flat" alt="derecktav" /> </p> -->
 
-- 🔭 I’m currently working on [Youtube Playlist Transfer](https://github.com/DereckTav/Youtube-Playlist-Transfer)
+- 🔭 I’m currently working on [...]()
 
-- 🌱 I’m currently learning **Go, NLP and Applied Data Privacy**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **derecktaverne@gmail.com**
 
