@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on [...]()
 -->
 
-<!--- 🌱 I’m currently learning **Go** -->
-
+<!--- 🌱 I’m currently learning **Go** 
 - 📫 How to reach me **derecktaverne@gmail.com**
 
 - ⚡ Fun fact **I used to do LEGO robotics**
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">derecktaverne@gmail.com
