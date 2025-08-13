@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [...]()
 -->
 
-- 🌱 I’m currently learning **Go**
+<!--- 🌱 I’m currently learning **Go** -->
 
 - 📫 How to reach me **derecktaverne@gmail.com**
 
